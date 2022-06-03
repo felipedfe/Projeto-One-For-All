@@ -9,4 +9,3 @@ ROUND(SUM(can.duracao / 60), 2) AS total_minutos
 		ON hist.cancoes_id = can.cancoes_id
 	GROUP BY hist.usuario_id
     ORDER BY usu.nome ASC;
-    
