@@ -44,7 +44,7 @@ services:
       - 3306:3306
     environment:
       MYSQL_ROOT_PASSWORD: password
-
+    platform: linux/amd64
 # Lista de redes que os containeres irão utilizar
 networks:
   # Rede padrão, criada automaticamente
