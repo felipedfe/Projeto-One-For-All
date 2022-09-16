@@ -1,16 +1,7 @@
-# 🚧 README em construção 🚧
+# One For All
 
-<!-- Olá, Tryber!
+## •Descrição
+Projeto feito durante o curso de desenvolvimento de web Trybe (https://www.betrybe.com/), nele botamos em prática os aprendizados em MySQL. Começamos criando o banco e alimentando ele com dados de uma planilha. Depois criamos as entidades propostas assim como queries para acessar e fazer relações entre as tabelas
 
-Esse é apenas um arquivo inicial para o README do seu projeto.
-
-É essencial que você preencha esse documento por conta própria, ok?
-
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-
-⚠️ IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
-
--->
+## •Tecnologias
+- SQL
